@@ -1,1 +1,1 @@
-# optimization
+# optimization technique codes
